@@ -34,16 +34,16 @@ x, y = 3, 5
 b1, b2, b3, b4 = True, False, x == 3, y < 3
 evaluate the following Boolean expressions:
 (a) b3     true
-(b) b4      true
+(b) b4      false
 (c) not b1   false
 (d) not b2    true
 (e) not b3    false
-(f) not b4     false
+(f) not b4     true
 (g) b1 and b2    false
 (h) b1 or b2     true
 (i) b1 and b3    true
 (j) b1 or b3     true
-(k) b1 and b4    true
+(k) b1 and b4    false
 (l) b1 or b4     true
 (m) b2 and b3    false
 (n) b2 or b3      true
